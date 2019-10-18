@@ -34,4 +34,4 @@ public abstract class GameObject {...}
 
 Interface UpnDownGame{...}
 
-class UpNDown implement UpnDownGame{...}
+class UpNDown implements UpnDownGame{...}
