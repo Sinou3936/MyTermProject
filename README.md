@@ -13,9 +13,9 @@
 
 
 #첫 번째 게임 클래스 생성
--- java
-  class RockPaperScissors {
-	//최 상위 클래스  아무것도 설정 하지 않고 시작
-}
---
 
+class RockPaperScissors { }
+
+class Computer extends RockPaperScissors { ... }
+
+class User extends RockPaperScissors { ... }
