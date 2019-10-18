@@ -32,6 +32,6 @@ public abstract class GameObject {...}
 
 #세 번째 Up & Down 게임 생성
 
-Interface UpnDown() {...}
+Interface UpnDownGame{...}
 
-class UpNDown{...}
+class UpNDown implement UpnDownGame{...}
