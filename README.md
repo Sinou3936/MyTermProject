@@ -19,3 +19,11 @@ class RockPaperScissors { }
 class Computer extends RockPaperScissors { ... }
 
 class User extends RockPaperScissors { ... }
+
+#두 번째 도둑 잡기 클래스 생성
+
+class Police extends GameObjects{}
+
+class Thife extends  GameObjects{}
+
+class GamePlay
