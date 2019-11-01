@@ -13,8 +13,7 @@
 
 
 #첫 번째 게임 클래스 생성
-```
-java
+``` java
 class RockPaperScissors { }
 
 class Computer extends RockPaperScissors { ... }
